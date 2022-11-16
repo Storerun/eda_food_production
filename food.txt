@@ -1,0 +1,29 @@
+Context
+As the world’s population has expanded and gotten richer, the demand for food, energy and water has seen a rapid increase. Not only has demand for all three increased, but they are also strongly interlinked: food production requires water and energy; traditional energy production demands water resources; agriculture provides a potential energy source. This article focuses on the environmental impacts of food. Ensuring everyone in the world has access to a nutritious diet in a sustainable way is one of the greatest challenges we face.
+
+Content
+This dataset contains most 43 most common foods grown across the globe and 23 columns as their respective land, water usage and carbon footprints.
+
+Columns
+
+Land use change - Kg CO2 - equivalents per kg product
+Animal Feed - Kg CO2 - equivalents per kg product
+Farm - Kg CO2 - equivalents per kg product
+Processing - Kg CO2 - equivalents per kg product
+Transport - Kg CO2 - equivalents per kg product
+Packaging - Kg CO2 - equivalents per kg product
+Retail - Kg CO2 - equivalents per kg product
+These represent greenhouse gas emissions per kg of food product(Kg CO2 - equivalents per kg product) across different stages in the lifecycle of food production.
+
+Eutrophication – the pollution of water bodies and ecosystems with excess nutrients – is a major environmental problem. The runoff of nitrogen and other nutrients from agricultural production systems is a leading contributor.
+
+Acknowledgements
+https://ourworldindata.org
+
+Inspiration
+Which types of food have more negative impact on the environment?
+What types of food production should be encouraged to consume nutritious diet in a sustainable way?
+Which stage of food production contributes more to the greenhouse gas emmision?
+Compare carbon footprint of plant-based foods?
+Compare carbon footprint of animal-based foods?
+Compare carbon footprint of protein rich foods?
